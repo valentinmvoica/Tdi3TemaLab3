@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdi3TemaLab3", "Tdi3TemaLab3\Tdi3TemaLab3.csproj", "{12B01178-2625-472F-922A-2FC26013B9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2", "p2\p2.csproj", "{1FEB2B41-7048-49EA-918B-12E6D654122B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctiiRec", "FunctiiRec\FunctiiRec.csproj", "{835D5481-BA0B-4AD1-9DA7-C06A5C8CF1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B01178-2625-472F-922A-2FC26013B9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B01178-2625-472F-922A-2FC26013B9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B01178-2625-472F-922A-2FC26013B9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B01178-2625-472F-922A-2FC26013B9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEB2B41-7048-49EA-918B-12E6D654122B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEB2B41-7048-49EA-918B-12E6D654122B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEB2B41-7048-49EA-918B-12E6D654122B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEB2B41-7048-49EA-918B-12E6D654122B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835D5481-BA0B-4AD1-9DA7-C06A5C8CF1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835D5481-BA0B-4AD1-9DA7-C06A5C8CF1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835D5481-BA0B-4AD1-9DA7-C06A5C8CF1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835D5481-BA0B-4AD1-9DA7-C06A5C8CF1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E449457-78F4-4E18-A5FA-964E52B32913}
+	EndGlobalSection
+EndGlobal
